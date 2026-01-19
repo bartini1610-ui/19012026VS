@@ -2,6 +2,12 @@
 //
 
 #include <iostream>
+void Initialize();
+void Input();
+void Update();
+void Render();
+void Shutdown();
+
 
 int main()
 {
